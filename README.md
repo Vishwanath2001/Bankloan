@@ -4,7 +4,7 @@ It is built using Random-forest classification since it was giving the best resu
 ![image](https://user-images.githubusercontent.com/76242298/130272320-c8f84e8c-ad96-4b74-8ba3-a9551ebc22c8.png)
 
 It was built using 30,000 dataset found on kaggle competition
-Unfortunately the kaggle competition is closed and not able to find it. I have attached the dataset .csv file in repo
+Unfortunately the kaggle competition is closed and not able to find it. I have attached the dataset as cred.csv file in repo
 
 
 
